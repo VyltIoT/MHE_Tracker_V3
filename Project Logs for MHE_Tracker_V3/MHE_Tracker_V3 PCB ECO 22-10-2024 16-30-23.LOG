@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=J2 Old DesignItemId=6PX1R New DesignItemId=6PX1R_F
+Change Component Footprint: Designator=J2 Old Footprint=6PX1R New Footprint=6PX1R_F
+Change Component Description : Designator=J2 Old Description=6PX1R New Description=6PX1R Female Header
+Change Component Description : Designator=R4 Old Description=RES_0805 New Description=RES_1206
+Change Component Description : Designator=R14 Old Description=RES_0805 New Description=RES_1206
+Change Component Description : Designator=R15 Old Description=RES_0805 New Description=RES_1206
+Change Component Library : Designator=J2 Old Library=Male_Header_P2.54.SchLib New Library=PinHeader.SchLib
+Change Component Kind : Designator=J2 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=J8 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "J2" ("J2"); Footprint = "6PX1R"; UniqueID = "\SQDBTPBC\KNOENEUC" ("\SQDBTPBC\KNOENEUC")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
