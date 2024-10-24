@@ -1,0 +1,8 @@
+Added Component: Designator=M2(ESP32-WROOM-32E)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ESP32-WROOM-32E"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Power Section Member=Component C6 ERP_102-2
+Added Member To Class: ClassName=Controller Member=Component M2 ESP32-WROOM-32E
+Added Member To Class: ClassName=Power Section Member=Component SW3 ERP_110-4

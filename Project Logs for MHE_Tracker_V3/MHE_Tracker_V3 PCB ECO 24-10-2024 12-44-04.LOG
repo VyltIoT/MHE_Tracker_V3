@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C6 Old Footprint=CAP_12.5_14 New Footprint=CAP_D12.5_H21_P5
+Change Component Footprint: Designator=C18 Old Footprint=CAP_12.5_14 New Footprint=CAP_D12.5_H21_P5
+Change Component Comment : Designator=C6 Old Comment=CAP_12.5_14 New Comment=ERP_102-2
+Change Component Comment : Designator=C18 Old Comment=CAP_12.5_14 New Comment=ERP_102-2
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAP_12.5_14"; UniqueID = "\YDFJVTMC\RUDJULNW" ("\YDFJVTMC\RUDJULNW")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "12.5X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP_12.5_14"; UniqueID = "\YDFJVTMC\GTKOUEIH" ("\YDFJVTMC\GTKOUEIH")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "12.5X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"

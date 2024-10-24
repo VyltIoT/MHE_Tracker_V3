@@ -1,0 +1,6 @@
+Added Component: Designator=J1(MSD-4-A)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "9 (8+1)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Controller Member=Component J1 MSD-4-A
