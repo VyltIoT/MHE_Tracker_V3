@@ -1,0 +1,13 @@
+Change component parameters: Designator = "SW3" ("SW3"); Footprint = "PBH2U"; UniqueID = "\YDFJVTMC\KHAZZQXJ" ("\YDFJVTMC\KHAZZQXJ")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ST2106CO3161"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J3(KLDX-0202-AC)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Kycon, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "KLDX-0202-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Member To Class: ClassName=Power Section Member=Component J3 KLDX-0202-AC
