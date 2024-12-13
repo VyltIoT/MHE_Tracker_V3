@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R50
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R52
+Change Component Designator: OldDesignator=R? NewDesignator=R53
+Change Component Designator: OldDesignator=R? NewDesignator=R54
+Added Member To Class: ClassName=Controller Member=Component R51 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R52 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R54 ERP_101-1

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=D3-1
+Change Component Footprint: Designator=D3 Old Footprint=LED_2SMD New Footprint=LED_3MM
+Change Component Comment : Designator=D3 Old Comment=LED_2SMD New Comment=LED_3MM
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED_2SMD"; UniqueID = "\YDFJVTMC\XDQBGXAX" ("\YDFJVTMC\XDQBGXAX")
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R35-2
+Added Net: Name=NetD3_1

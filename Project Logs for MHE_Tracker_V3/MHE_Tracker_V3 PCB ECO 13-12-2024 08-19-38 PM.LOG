@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=ENC_IN_A_5V Pin=U3-2
+Removed Pin From Net: NetName=ENC_IN_A Pin=U3-3
+Removed Pin From Net: NetName=ENC_IN_B_5V Pin=U3-5
+Removed Pin From Net: NetName=ENC_IN_B Pin=U3-6
+Removed Pin From Net: NetName=IR_IN Pin=U3-11
+Removed Pin From Net: NetName=IR_IN_5V Pin=U3-12
+Removed Member From Class: ClassName=IMU Member=C3
+Removed Member From Class: ClassName=Power Section Member=C6
+Removed Member From Class: ClassName=Controller Member=D3
+Removed Member From Class: ClassName=Power Section Member=R22
+Removed Member From Class: ClassName=IMU Member=R23
+Removed Member From Class: ClassName=IMU Member=R24
+Removed Member From Class: ClassName=IMU Member=R25
+Removed Member From Class: ClassName=IMU Member=R27
+Removed Member From Class: ClassName=Power Section Member=R28
+Removed Member From Class: ClassName=IMU Member=R36
+Removed Member From Class: ClassName=Controller Member=R55
+Removed Member From Class: ClassName=Controller Member=R56
+Removed Member From Class: ClassName=Controller Member=R57
+Removed Member From Class: ClassName=Controller Member=R58
+Removed Member From Class: ClassName=Controller Member=R61
+Added Pin To Net: NetName=IR_IN_5V Pin=U3-2
+Added Pin To Net: NetName=IR_IN Pin=U3-3
+Added Pin To Net: NetName=ENC_IN_A_5V Pin=U3-5
+Added Pin To Net: NetName=ENC_IN_A Pin=U3-6
+Added Pin To Net: NetName=ENC_IN_B Pin=U3-11
+Added Pin To Net: NetName=ENC_IN_B_5V Pin=U3-12
+Added Member To Class: ClassName=Controller Member=Component C5 ERP_102-1
+Added Member To Class: ClassName=IMU Member=Component C7 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C8 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C13 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C14 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component D1 LED_3MM_RIGHT_ANGLE
+Added Member To Class: ClassName=Power Section Member=Component D2 ERP_104-3
+Added Member To Class: ClassName=Controller Member=Component R11 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R12 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R13 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R15 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R18 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R19 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R23 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R31 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R32 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R33 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R34 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R37 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R39 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R41 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R44 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R45 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R46 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R49 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R50 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R51 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R52 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R54 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R59 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component U8 ERP_123-1

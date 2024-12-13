@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D3 Old Footprint=LED_3MM New Footprint=LED_3MM_RED_RIGHT_ANGLE
+Change Component Footprint: Designator=D2 Old Footprint=LED_3MM New Footprint=LED_3MM_YELLOW_RIGHT_ANGLE
+Change Component Comment : Designator=D2 Old Comment=LED_3MM New Comment=LED_3MM_RIGHT_ANGLE
+Change Component Comment : Designator=D3 Old Comment=LED_3MM New Comment=LED_3MM_RIGHT_ANGLE
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED_3MM"; UniqueID = "\YDFJVTMC\AXLRNNET" ("\YDFJVTMC\AXLRNNET")
+Change component parameters (AddParameter): Name = "Value"; Value = "Yellow"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "LED_3MM"; UniqueID = "\YDFJVTMC\RRCEACEM" ("\YDFJVTMC\RRCEACEM")
+Change component parameters (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"

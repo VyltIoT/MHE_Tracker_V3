@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=3V3 Pin=U9-1
+Removed Pin From Net: NetName=GND Pin=U9-3
+Removed Pin From Net: NetName=GND Pin=U9-5
+Removed Pin From Net: NetName=5V0 Pin=U9-6
+Removed Pin From Net: NetName=GND Pin=U9-7
+Removed Member From Class: ClassName=Power Section Member=C8
+Removed Member From Class: ClassName=Controller Member=C12
+Removed Member From Class: ClassName=IMU Member=C15
+Removed Member From Class: ClassName=Controller Member=J5
+Removed Member From Class: ClassName=Power Section Member=R14
+Removed Member From Class: ClassName=IMU Member=R22
+Removed Member From Class: ClassName=IMU Member=R23
+Removed Member From Class: ClassName=Power Section Member=R23
+Removed Member From Class: ClassName=Controller Member=R32
+Removed Member From Class: ClassName=Controller Member=R33
+Removed Member From Class: ClassName=Controller Member=R34
+Removed Member From Class: ClassName=Controller Member=R35
+Removed Member From Class: ClassName=Controller Member=R36
+Removed Member From Class: ClassName=Power Section Member=U1
+Removed Member From Class: ClassName=Power Section Member=U4
+Removed Member From Class: ClassName=Power Section Member=U5
+Removed Member From Class: ClassName=Controller Member=U6
+Removed Member From Class: ClassName=Controller Member=U8
+Removed Member From Class: ClassName=Controller Member=U9
+Change Component Footprint: Designator=U9 Old Footprint=TLV767XXDRV New Footprint=AMS1117_SOT223
+Change Component Comment : Designator=U9 Old Comment=TLV767XXDRV New Comment=ERP_123-1
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP_D12.5_H21_P5"; UniqueID = "\YDFJVTMC\GTKOUEIH" ("\YDFJVTMC\GTKOUEIH")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ST2136CO4725"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "12.5X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF/63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAP_D12.5_H21_P5"; UniqueID = "\YDFJVTMC\RUDJULNW" ("\YDFJVTMC\RUDJULNW")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ST2136CO4725"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "12.5X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100uF/63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC1608X10N"; UniqueID = "\YDFJVTMC\LDBLIZKS" ("\YDFJVTMC\LDBLIZKS")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF/63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC1608X10N"; UniqueID = "\YDFJVTMC\XEDDFTJX" ("\YDFJVTMC\XEDDFTJX")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100nF/63V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "CAPC1608X10N"; UniqueID = "\YDFJVTMC\UVMFTDVY" ("\YDFJVTMC\UVMFTDVY")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GRM188R6YA475KE15D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-7205-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAPC1608X10N"; UniqueID = "\YDFJVTMC\MSFTNANC" ("\YDFJVTMC\MSFTNANC")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GRM188R6YA475KE15D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "490-7205-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIOM6959X26L"; UniqueID = "\YDFJVTMC\ISJRKZZO" ("\YDFJVTMC\ISJRKZZO")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ST2103SD0940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "SS54"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U9" ("U9"); Footprint = "TLV767XXDRV"; UniqueID = "\YDFJVTMC\WPWTHNXI" ("\YDFJVTMC\WPWTHNXI")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier  Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3V3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=5V0 Pin=U9-3
+Added Pin To Net: NetName=3V3 Pin=U9-4
+Added Member To Class: ClassName=Controller Member=Component C2 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component C4 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component C6 ERP_102-1
+Added Member To Class: ClassName=IMU Member=Component C9 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C13 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C16 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component D1 ERP_104-3
+Added Member To Class: ClassName=Power Section Member=Component D2 LED_2SMD
+Added Member To Class: ClassName=Controller Member=Component J2 Terminal_Block_4Pin_2.54P
+Added Member To Class: ClassName=Controller Member=Component J3 Terminal_Block_3Pin_2.54P
+Added Member To Class: ClassName=Controller Member=Component R1 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R2 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R4 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R5 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R7 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R9 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R10 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R13 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R15 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R16 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R25 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R27 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R29 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R36 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component U2 FOD817A3SD
+Added Member To Class: ClassName=Controller Member=Component U3 74LVC125ABQ
+Added Member To Class: ClassName=Controller Member=Component U5 RV-3028-C7
+Added Member To Class: ClassName=Power Section Member=Component U7 XL4015
+Added Member To Class: ClassName=Power Section Member=Component U8 APX803L
+Added Member To Class: ClassName=Power Section Member=Component U9 ERP_123-1

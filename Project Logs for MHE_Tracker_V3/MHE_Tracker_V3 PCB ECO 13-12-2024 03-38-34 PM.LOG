@@ -1,0 +1,7 @@
+Added Component: Designator=MH1(MountingHole4X6)
+Added Component: Designator=MH2(MountingHole4X6)
+Added Pin To Net: NetName=EARTH Pin=MH1-1
+Added Pin To Net: NetName=EARTH Pin=MH2-1
+Added Net: Name=EARTH
+Added Member To Class: ClassName=Power Section Member=Component MH1 MountingHole4X6
+Added Member To Class: ClassName=Power Section Member=Component MH2 MountingHole4X6

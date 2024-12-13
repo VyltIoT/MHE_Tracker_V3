@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VIN Pin=D2-2
+Change Component Footprint: Designator=D2 Old Footprint=LED_2SMD New Footprint=LED_3MM
+Change Component Comment : Designator=D2 Old Comment=LED_2SMD New Comment=LED_3MM
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED_2SMD"; UniqueID = "\YDFJVTMC\FCCIBCGK" ("\YDFJVTMC\FCCIBCGK")
+Change component parameters (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R36-2
+Added Net: Name=NetD2_2

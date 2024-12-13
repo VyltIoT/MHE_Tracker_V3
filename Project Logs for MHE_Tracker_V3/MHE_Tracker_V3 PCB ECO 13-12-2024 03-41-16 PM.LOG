@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=EARTH Pin=MH1-1
+Removed Pin From Net: NetName=EARTH Pin=MH2-1
+Add Pin To Net: Unknown Pin: Pin MH1-1
+Add Pin To Net: Unknown Pin: Pin MH2-1

@@ -1,0 +1,17 @@
+Added Component: Designator=D4(LED_3MM_GREEN_RIGHT_ANGLE)
+Add component (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R59-1
+Added Pin To Net: NetName=HEARTBEAT Pin=D4-2
+Added Pin To Net: NetName=HEARTBEAT Pin=R53-1
+Added Net: Name=HEARTBEAT
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R59-2
+Added Net: Name=NetD4_1
+Added Member To Class: ClassName=Controller Member=Component D4 LED_3MM_RIGHT_ANGLE
+Added Member To Class: ClassName=Controller Member=Component R59 ERP_101-1
