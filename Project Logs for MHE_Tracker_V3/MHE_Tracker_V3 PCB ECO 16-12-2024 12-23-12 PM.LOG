@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=NetR36_1 Pin=R7_1-1
+Removed Pin From Net: NetName=3V3 Pin=R7_1-2
+Removed Member From Class: ClassName=Power Section Member=R50
+Added Component: Designator=C4(CAPC1608X10N)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC1608X10N)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RESC3115X06N)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier  1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier  Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=RTC3V3 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=3V3 Pin=R36-2
+Added Member To Class: ClassName=Controller Member=Component C4 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component C5 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component R32 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R33 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R34 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R35 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R36 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R40 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R44 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R45 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R48 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R52 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R55 ERP_101-1

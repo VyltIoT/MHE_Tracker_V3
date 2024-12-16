@@ -1,0 +1,156 @@
+Removed Member From Class: ClassName=Power Section Member=R48
+Added Component: Designator=C15(CAPC1608X10N)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC1608X10N)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Suuplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LED_1206)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LED_1206)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "GREEN"; VariantName = "[No Variations]"
+Added Component: Designator=J6(GSB1CA11101DSHR)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Amphenol ICC (Commercial Products)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GSB1CA11101DSHR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "24 (16+8 Dummy)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MUP-U23010-02"; VariantName = "[No Variations]"
+Added Component: Designator=R57(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R58(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R59(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Component: Designator=R60(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603FR-071KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=U10(SOP65P780X200-28M)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ST2009SD0267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "FT232R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=J6-A1
+Added Pin To Net: NetName=GND Pin=J6-A12
+Added Pin To Net: NetName=GND Pin=J6-B1
+Added Pin To Net: NetName=GND Pin=J6-B12
+Added Pin To Net: NetName=GND Pin=J6-SH1
+Added Pin To Net: NetName=GND Pin=J6-SH2
+Added Pin To Net: NetName=GND Pin=J6-SH3
+Added Pin To Net: NetName=GND Pin=J6-SH4
+Added Pin To Net: NetName=GND Pin=R57-2
+Added Pin To Net: NetName=GND Pin=R59-2
+Added Pin To Net: NetName=TXD0 Pin=U10-1
+Added Pin To Net: NetName=DTR Pin=U10-2
+Added Pin To Net: NetName=RTS Pin=U10-3
+Added Pin To Net: NetName=RXD0 Pin=U10-5
+Added Pin To Net: NetName=GND Pin=U10-7
+Added Pin To Net: NetName=GND Pin=U10-18
+Added Pin To Net: NetName=GND Pin=U10-21
+Added Pin To Net: NetName=GND Pin=U10-25
+Added Pin To Net: NetName=GND Pin=U10-26
+Added Pin To Net: NetName=FT232_3V3 Pin=C16-1
+Added Pin To Net: NetName=FT232_3V3 Pin=U10-4
+Added Pin To Net: NetName=FT232_3V3 Pin=U10-17
+Added Net: Name=FT232_3V3
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=U10-23
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R58-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=U10-22
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R60-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetJ6_A5 Pin=J6-A5
+Added Pin To Net: NetName=NetJ6_A5 Pin=R57-1
+Added Net: Name=NetJ6_A5
+Added Pin To Net: NetName=NetJ6_B5 Pin=J6-B5
+Added Pin To Net: NetName=NetJ6_B5 Pin=R59-1
+Added Net: Name=NetJ6_B5
+Added Pin To Net: NetName=USB_N Pin=J6-A7
+Added Pin To Net: NetName=USB_N Pin=J6-B7
+Added Pin To Net: NetName=USB_N Pin=U10-16
+Added Net: Name=USB_N
+Added Pin To Net: NetName=USB_P Pin=J6-A6
+Added Pin To Net: NetName=USB_P Pin=J6-B6
+Added Pin To Net: NetName=USB_P Pin=U10-15
+Added Net: Name=USB_P
+Added Pin To Net: NetName=USB_VBUS Pin=C15-1
+Added Pin To Net: NetName=USB_VBUS Pin=J6-A4
+Added Pin To Net: NetName=USB_VBUS Pin=J6-A9
+Added Pin To Net: NetName=USB_VBUS Pin=J6-B4
+Added Pin To Net: NetName=USB_VBUS Pin=J6-B9
+Added Pin To Net: NetName=USB_VBUS Pin=R58-2
+Added Pin To Net: NetName=USB_VBUS Pin=R60-2
+Added Pin To Net: NetName=USB_VBUS Pin=U10-20
+Added Net: Name=USB_VBUS
+Added Differential Pair: Name=USB
+Added Member To Class: ClassName=Controller Member=Component C15 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component C16 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component D5 LED_1206
+Added Member To Class: ClassName=Controller Member=Component D6 LED_1206
+Added Member To Class: ClassName=Controller Member=Component J6 GSB1CA11101DSHR
+Added Member To Class: ClassName=Controller Member=Component R5 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R6 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R7 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R9 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R10 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R11 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R12 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R13 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R18 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R25 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R28 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R31 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R32 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R33 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R34 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R35 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R38 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R39 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R40 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R41 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R51 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R52 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R54 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R56 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R57 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R58 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R59 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R60 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component U10 FT232R
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Differential Pairs Routing_1
