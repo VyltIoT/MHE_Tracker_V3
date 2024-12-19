@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=SW1-2
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Removed Member From Class: ClassName=Controller Member=SW4
+Removed Member From Class: ClassName=Controller Member=SW5
+Change Component Footprint: Designator=SW1 Old Footprint=FSM_6X6 New Footprint=Generic6X6
+Change Component Footprint: Designator=SW2 Old Footprint=FSM_6X6 New Footprint=Generic6X6
+Change Component Comment : Designator=SW1 Old Comment=ERP_110-4 New Comment=Generic6X6
+Change Component Comment : Designator=SW2 Old Comment=ERP_110-4 New Comment=Generic6X6
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "FSM_6X6"; UniqueID = "\SQDBTPBC\BRBUKDTP" ("\SQDBTPBC\BRBUKDTP")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "5558"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "6X6"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW2" ("SW2"); Footprint = "FSM_6X6"; UniqueID = "\SQDBTPBC\ZNFCIRGD" ("\SQDBTPBC\ZNFCIRGD")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Sharvi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "5558"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "6X6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW1-3
+Added Pin To Net: NetName=GND Pin=SW2-3

@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=IMU_INT1 Pin=R53-1
+Add Net: Net with name "IMU_INT2" already exists

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=IMU_INT1 Pin=R16-1
+Removed Pin From Net: NetName=IMU_INT2 Pin=R17-1
+Removed Pin From Net: NetName=TIM_INT Pin=R18-2
+Added Pin To Net: NetName=TIM_INT Pin=R16-1
+Added Pin To Net: NetName=IMU_INT1 Pin=R17-1
+Added Pin To Net: NetName=IMU_INT2 Pin=R18-2

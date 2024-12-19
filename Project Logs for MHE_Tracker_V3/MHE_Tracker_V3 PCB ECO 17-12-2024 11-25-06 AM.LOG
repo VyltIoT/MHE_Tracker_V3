@@ -1,0 +1,65 @@
+Removed Member From Class: ClassName=Power Section Member=C6
+Removed Member From Class: ClassName=IMU Member=C11
+Removed Member From Class: ClassName=IMU Member=C12
+Removed Member From Class: ClassName=Power Section Member=D2
+Removed Member From Class: ClassName=Power Section Member=J5
+Removed Member From Class: ClassName=Power Section Member=R44
+Removed Member From Class: ClassName=Controller Member=R50
+Removed Member From Class: ClassName=Power Section Member=R50
+Removed Member From Class: ClassName=Controller Member=R57
+Removed Member From Class: ClassName=IMU Member=R57
+Removed Member From Class: ClassName=IMU Member=R59
+Removed Member From Class: ClassName=Power Section Member=U6
+Removed Member From Class: ClassName=IMU Member=U8
+Added Component: Designator=SW4(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Component: Designator=SW5(Generic6X6)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4.5X4.5"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Controller Member=Component C5 ERP_102-1
+Added Member To Class: ClassName=IMU Member=Component C8 ERP_102-1
+Added Member To Class: ClassName=IMU Member=Component C9 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C10 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C13 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C14 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C15 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component D4 ERP_104-3
+Added Member To Class: ClassName=Power Section Member=Component D5 LED_3MM_RIGHT_ANGLE
+Added Member To Class: ClassName=Controller Member=Component J4 Terminal_Block_3Pin_5.08P
+Added Member To Class: ClassName=Power Section Member=Component J6 KLDX-0202-AC
+Added Member To Class: ClassName=Controller Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R9 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R15 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R18 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R21 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R22 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R24 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R28 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R31 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R34 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R39 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R41 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R45 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R46 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R48 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R49 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R51 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R54 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R55 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R56 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R58 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R60 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component SW4 Generic6X6
+Added Member To Class: ClassName=Controller Member=Component SW5 Generic6X6
+Added Member To Class: ClassName=Controller Member=Component U5 FOD817A3SD
+Added Member To Class: ClassName=IMU Member=Component U7 ICM42670P
+Added Member To Class: ClassName=Power Section Member=Component U9 ERP_123-1
+Added Member To Class: ClassName=Power Section Member=Component U10 APX803L

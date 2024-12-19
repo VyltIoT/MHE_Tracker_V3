@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=Power Section Member=R41
+Removed Member From Class: ClassName=Controller Member=R48
+Removed Member From Class: ClassName=IMU Member=R56
+Added Pin To Net: NetName=TIM_INT Pin=R18-2
+Added Pin To Net: NetName=TIM_INT Pin=R31-1
+Added Pin To Net: NetName=TIM_INT Pin=U4-2
+Added Net: Name=TIM_INT
+Added Member To Class: ClassName=Controller Member=Component R16 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R18 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R20 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R22 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R23 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R29 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R31 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R35 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R36 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R37 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R41 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R43 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R45 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R46 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R49 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R50 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R52 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R54 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R55 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R58 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R61 ERP_101-1

@@ -1,0 +1,20 @@
+Added Component: Designator=J1(6PX1R_F)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R61(RES_0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=RTS Pin=J1-3
+Added Pin To Net: NetName=DTR Pin=J1-4
+Added Pin To Net: NetName=TXD0 Pin=J1-5
+Added Pin To Net: NetName=RXD0 Pin=J1-6
+Added Pin To Net: NetName=USB_VBUS Pin=R61-1
+Added Pin To Net: NetName=NetR61_2 Pin=R61-2
+Added Pin To Net: NetName=NetR61_2 Pin=U10-19
+Added Net: Name=NetR61_2
+Added Member To Class: ClassName=Controller Member=Component J1 ERP_148-2
+Added Member To Class: ClassName=Controller Member=Component R61 ERP_101-1

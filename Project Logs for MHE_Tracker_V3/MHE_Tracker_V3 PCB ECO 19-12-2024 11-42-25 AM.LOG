@@ -1,0 +1,285 @@
+Removed Member From Class: ClassName=IMU Member=C?
+Removed Member From Class: ClassName=Power Section Member=C?
+Removed Member From Class: ClassName=Controller Member=D?
+Removed Member From Class: ClassName=Power Section Member=J?
+Removed Member From Class: ClassName=Controller Member=Q?
+Removed Member From Class: ClassName=Controller Member=R?
+Removed Member From Class: ClassName=IMU Member=R?
+Removed Member From Class: ClassName=Controller Member=SW?
+Removed Member From Class: ClassName=Controller Member=U?
+Removed Member From Class: ClassName=IMU Member=U?
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=F? NewDesignator=F1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Component Designator: OldDesignator=R? NewDesignator=R39
+Change Component Designator: OldDesignator=R? NewDesignator=R40
+Change Component Designator: OldDesignator=R? NewDesignator=R41
+Change Component Designator: OldDesignator=R? NewDesignator=R42
+Change Component Designator: OldDesignator=R? NewDesignator=R43
+Change Component Designator: OldDesignator=R? NewDesignator=R44
+Change Component Designator: OldDesignator=R? NewDesignator=R45
+Change Component Designator: OldDesignator=R? NewDesignator=R46
+Change Component Designator: OldDesignator=R? NewDesignator=R47
+Change Component Designator: OldDesignator=R? NewDesignator=R48
+Change Component Designator: OldDesignator=R? NewDesignator=R49
+Change Component Designator: OldDesignator=R? NewDesignator=R50
+Change Component Designator: OldDesignator=R? NewDesignator=R51
+Change Component Designator: OldDesignator=R? NewDesignator=R52
+Change Component Designator: OldDesignator=R? NewDesignator=R53
+Change Component Designator: OldDesignator=R? NewDesignator=R54
+Change Component Designator: OldDesignator=R? NewDesignator=R55
+Change Component Designator: OldDesignator=R? NewDesignator=R56
+Change Component Designator: OldDesignator=R? NewDesignator=R57
+Change Component Designator: OldDesignator=R? NewDesignator=R58
+Change Component Designator: OldDesignator=R? NewDesignator=R59
+Change Component Designator: OldDesignator=R? NewDesignator=R60
+Change Component Designator: OldDesignator=R? NewDesignator=R61
+Change Component Designator: OldDesignator=R? NewDesignator=R62
+Change Component Designator: OldDesignator=R? NewDesignator=R63
+Change Component Designator: OldDesignator=R? NewDesignator=R64
+Change Component Designator: OldDesignator=R? NewDesignator=R65
+Change Component Designator: OldDesignator=R? NewDesignator=R66
+Change Component Designator: OldDesignator=R? NewDesignator=R67
+Change Component Designator: OldDesignator=R? NewDesignator=R68
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=SW? NewDesignator=SW4
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=U? NewDesignator=U7
+Change Component Designator: OldDesignator=U? NewDesignator=U8
+Change Component Designator: OldDesignator=U? NewDesignator=U9
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Change Component Designator: OldDesignator=U? NewDesignator=U11
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetJ?_A5 New Net Name=NetJ5_A5
+Change Net Name : Old Net Name=NetJ?_B5 New Net Name=NetJ5_B5
+Change Net Name : Old Net Name=NetM?_3 New Net Name=NetM1_3
+Change Net Name : Old Net Name=NetM?_8 New Net Name=NetM1_8
+Change Net Name : Old Net Name=NetM?_9 New Net Name=NetM1_9
+Change Net Name : Old Net Name=NetM?_10 New Net Name=NetM1_10
+Change Net Name : Old Net Name=NetM?_11 New Net Name=NetM1_11
+Change Net Name : Old Net Name=NetM?_12 New Net Name=NetM1_12
+Change Net Name : Old Net Name=NetM?_13 New Net Name=NetM1_13
+Change Net Name : Old Net Name=NetM?_16 New Net Name=NetM1_16
+Change Net Name : Old Net Name=NetM?_25 New Net Name=NetM1_25
+Change Net Name : Old Net Name=NetM?_26 New Net Name=NetM1_26
+Change Net Name : Old Net Name=NetM?_28 New Net Name=NetM1_28
+Change Net Name : Old Net Name=NetM?_30 New Net Name=NetM1_30
+Change Net Name : Old Net Name=NetM?_31 New Net Name=NetM1_31
+Change Net Name : Old Net Name=NetM?_33 New Net Name=NetM1_33
+Change Net Name : Old Net Name=NetM?_36 New Net Name=NetM1_36
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR48_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR59_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR64_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR39_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR40_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR42_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR43_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR53_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR54_2
+Added Member To Class: ClassName=Controller Member=Component C1 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component C2 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component C3 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component C4 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component C5 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component C7 ERP_102-1
+Added Member To Class: ClassName=IMU Member=Component C8 ERP_102-1
+Added Member To Class: ClassName=IMU Member=Component C9 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C10 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C11 ERP_102-2
+Added Member To Class: ClassName=Power Section Member=Component C12 ERP_102-2
+Added Member To Class: ClassName=Power Section Member=Component C13 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C14 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C15 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component C16 ERP_102-1
+Added Member To Class: ClassName=Controller Member=Component D1 LED_3MM_RIGHT_ANGLE
+Added Member To Class: ClassName=Controller Member=Component D2 LED_1206
+Added Member To Class: ClassName=Controller Member=Component D3 LED_1206
+Added Member To Class: ClassName=Power Section Member=Component D4 ERP_104-3
+Added Member To Class: ClassName=Power Section Member=Component D5 LED_3MM_RIGHT_ANGLE
+Added Member To Class: ClassName=Controller Member=Component J1 CR1220-BH
+Added Member To Class: ClassName=Controller Member=Component J2 Terminal_Block_4Pin_5.08P
+Added Member To Class: ClassName=Controller Member=Component J3 Terminal_Block_3Pin_5.08P
+Added Member To Class: ClassName=Controller Member=Component J4 ERP_148-2
+Added Member To Class: ClassName=Power Section Member=Component J6 KLDX-0202-AC
+Added Member To Class: ClassName=Controller Member=Component Q1 ERP_105-1
+Added Member To Class: ClassName=Controller Member=Component Q2 ERP_105-1
+Added Member To Class: ClassName=Controller Member=Component R1 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R2 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R3 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R4 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R5 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R6 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R7 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R8 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R9 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R10 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R11 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R12 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R13 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R14 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R15 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R16 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R17 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R18 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R19 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R20 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R21 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R22 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R23 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R24 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R25 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R26 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R27 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R28 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R29 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R30 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R31 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R32 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R33 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R34 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R35 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R36 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R37 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R38 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R39 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R40 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R41 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R42 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R43 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R44 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R45 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R46 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component R47 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R48 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R49 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R50 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R51 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R52 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R53 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R54 ERP_101-1
+Added Member To Class: ClassName=IMU Member=Component R55 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R56 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R57 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R58 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R59 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R61 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R62 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R63 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R64 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R65 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R66 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R67 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component R68 ERP_101-1
+Added Member To Class: ClassName=Controller Member=Component SW1 Generic6X6
+Added Member To Class: ClassName=Controller Member=Component SW2 Generic6X6
+Added Member To Class: ClassName=Power Section Member=Component SW3 ERP_110-4
+Added Member To Class: ClassName=Controller Member=Component U1 FOD817A3SD
+Added Member To Class: ClassName=Controller Member=Component U2 FOD817A3SD
+Added Member To Class: ClassName=Controller Member=Component U3 RV-3028-C7
+Added Member To Class: ClassName=Controller Member=Component U4 FOD817A3SD
+Added Member To Class: ClassName=Controller Member=Component U5 74LVC125A
+Added Member To Class: ClassName=Controller Member=Component U6 FT232R
+Added Member To Class: ClassName=IMU Member=Component U7 ICM42670P
+Added Member To Class: ClassName=Power Section Member=Component U8 XL4015
+Added Member To Class: ClassName=Power Section Member=Component U10 APX803L
+Added Member To Class: ClassName=Power Section Member=Component U11 FOD817A3SD

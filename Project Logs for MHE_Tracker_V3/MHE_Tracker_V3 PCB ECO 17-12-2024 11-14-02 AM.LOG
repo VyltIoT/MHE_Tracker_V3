@@ -1,0 +1,232 @@
+Removed Pin From Net: NetName=GND Pin=J7-A1
+Removed Pin From Net: NetName=GND Pin=J7-A12
+Removed Pin From Net: NetName=GND Pin=J7-B1
+Removed Pin From Net: NetName=GND Pin=J7-B12
+Removed Pin From Net: NetName=GND Pin=J7-SH1
+Removed Pin From Net: NetName=GND Pin=J7-SH2
+Removed Pin From Net: NetName=GND Pin=J7-SH3
+Removed Pin From Net: NetName=GND Pin=J7-SH4
+Removed Pin From Net: NetName=EN Pin=M1-3
+Removed Pin From Net: NetName=IO0 Pin=M1-27
+Removed Pin From Net: NetName=GND Pin=M1-48
+Removed Pin From Net: NetName=GND Pin=M1-49
+Removed Pin From Net: NetName=ENC_B_OUT Pin=R6-1
+Removed Pin From Net: NetName=RXD0 Pin=R7-1
+Removed Pin From Net: NetName=NetM1_37 Pin=R7-2
+Removed Pin From Net: NetName=TXD0 Pin=R8-1
+Removed Pin From Net: NetName=NetM1_36 Pin=R8-2
+Removed Pin From Net: NetName=ENC_A_OUT Pin=R10-1
+Removed Pin From Net: NetName=NetM1_35 Pin=R10-2
+Removed Pin From Net: NetName=HEARTBEAT Pin=R11-1
+Removed Pin From Net: NetName=NetM1_8 Pin=R11-2
+Removed Pin From Net: NetName=NetM1_33 Pin=R12-2
+Removed Pin From Net: NetName=NetM1_9 Pin=R13-1
+Removed Pin From Net: NetName=NetM1_10 Pin=R15-1
+Removed Pin From Net: NetName=IR_OUT Pin=R16-1
+Removed Pin From Net: NetName=NetM1_12 Pin=R16-2
+Removed Pin From Net: NetName=NetM1_30 Pin=R17-2
+Removed Pin From Net: NetName=NetM1_13 Pin=R19-1
+Removed Pin From Net: NetName=SCL Pin=R19-2
+Removed Pin From Net: NetName=NetM1_13 Pin=R20-1
+Removed Pin From Net: NetName=NetM1_28 Pin=R21-2
+Removed Pin From Net: NetName=3V3 Pin=R23-2
+Removed Pin From Net: NetName=NetM1_16 Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=SDA Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=R62-2
+Removed Pin From Net: NetName=GND Pin=R63-2
+Removed Member From Class: ClassName=Controller Member=J7
+Removed Member From Class: ClassName=Controller Member=R57
+Removed Member From Class: ClassName=Controller Member=R62
+Removed Member From Class: ClassName=Controller Member=R63
+Change Component Footprint: Designator=M1 Old Footprint=ESP32_S3-32E_WROOM New Footprint=ESP32-WROOM-32E
+Change Component Comment : Designator=M1 Old Comment=ESP32_S3-32E_WROOM New Comment=ESP32-WROOM-32E
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C8
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Change Component Designator: OldDesignator=C8 NewDesignator=C10
+Change Component Designator: OldDesignator=C9 NewDesignator=C11
+Change Component Designator: OldDesignator=C10 NewDesignator=C12
+Change Component Designator: OldDesignator=C11 NewDesignator=C13
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Change Component Designator: OldDesignator=C13 NewDesignator=C15
+Change Component Designator: OldDesignator=C14 NewDesignator=C16
+Change Component Designator: OldDesignator=C15 NewDesignator=C6
+Change Component Designator: OldDesignator=C16 NewDesignator=C7
+Change Component Designator: OldDesignator=D2 NewDesignator=D4
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Change Component Designator: OldDesignator=D4 NewDesignator=D6
+Change Component Designator: OldDesignator=D5 NewDesignator=D2
+Change Component Designator: OldDesignator=D6 NewDesignator=D3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J5
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R18 NewDesignator=R15
+Change Component Designator: OldDesignator=R25 NewDesignator=R21
+Change Component Designator: OldDesignator=R26 NewDesignator=R22
+Change Component Designator: OldDesignator=R28 NewDesignator=R24
+Change Component Designator: OldDesignator=R29 NewDesignator=R25
+Change Component Designator: OldDesignator=R30 NewDesignator=R28
+Change Component Designator: OldDesignator=R31 NewDesignator=R29
+Change Component Designator: OldDesignator=R32 NewDesignator=R31
+Change Component Designator: OldDesignator=R33 NewDesignator=R37
+Change Component Designator: OldDesignator=R34 NewDesignator=R38
+Change Component Designator: OldDesignator=R35 NewDesignator=R39
+Change Component Designator: OldDesignator=R36 NewDesignator=R40
+Change Component Designator: OldDesignator=R37 NewDesignator=R41
+Change Component Designator: OldDesignator=R38 NewDesignator=R32
+Change Component Designator: OldDesignator=R39 NewDesignator=R33
+Change Component Designator: OldDesignator=R40 NewDesignator=R34
+Change Component Designator: OldDesignator=R41 NewDesignator=R35
+Change Component Designator: OldDesignator=R42 NewDesignator=R36
+Change Component Designator: OldDesignator=R43 NewDesignator=R47
+Change Component Designator: OldDesignator=R44 NewDesignator=R48
+Change Component Designator: OldDesignator=R45 NewDesignator=R49
+Change Component Designator: OldDesignator=R46 NewDesignator=R50
+Change Component Designator: OldDesignator=R47 NewDesignator=R51
+Change Component Designator: OldDesignator=R48 NewDesignator=R52
+Change Component Designator: OldDesignator=R49 NewDesignator=R53
+Change Component Designator: OldDesignator=R50 NewDesignator=R54
+Change Component Designator: OldDesignator=R51 NewDesignator=R55
+Change Component Designator: OldDesignator=R52 NewDesignator=R56
+Change Component Designator: OldDesignator=R53 NewDesignator=R57
+Change Component Designator: OldDesignator=R54 NewDesignator=R58
+Change Component Designator: OldDesignator=R55 NewDesignator=R59
+Change Component Designator: OldDesignator=R56 NewDesignator=R60
+Change Component Designator: OldDesignator=R57 NewDesignator=R42
+Change Component Designator: OldDesignator=R58 NewDesignator=R44
+Change Component Designator: OldDesignator=R59 NewDesignator=R45
+Change Component Designator: OldDesignator=R60 NewDesignator=R46
+Change Component Designator: OldDesignator=R61 NewDesignator=R43
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U6
+Change component parameters: Designator = "M1" ("M1"); Footprint = "ESP32_S3-32E_WROOM"; UniqueID = "\SQDBTPBC\GLIBPAUA" ("\SQDBTPBC\GLIBPAUA")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "ESP32-WROOM-32E"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RES_0603"; UniqueID = "\SQDBTPBC\CCMIPDTW" ("\SQDBTPBC\CCMIPDTW")
+Change component parameters (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-07470RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "311-470GRCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-470GRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-470GRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-470GRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES_0603)
+Add component (AddParameter): Name = "ERP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RC0603JR-07470RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "311-470GRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=M1-15
+Added Pin To Net: NetName=GND Pin=M1-38
+Added Pin To Net: NetName=GND Pin=M1-39
+Added Pin To Net: NetName=EN Pin=R6-2
+Added Pin To Net: NetName=SDA Pin=R7-1
+Added Pin To Net: NetName=NetM1_16 Pin=R7-2
+Added Pin To Net: NetName=SCL Pin=R9-1
+Added Pin To Net: NetName=NetM1_13 Pin=R9-2
+Added Pin To Net: NetName=NetM1_28 Pin=R10-2
+Added Pin To Net: NetName=NetM1_30 Pin=R11-2
+Added Pin To Net: NetName=ENC_A_OUT Pin=R13-1
+Added Pin To Net: NetName=NetM1_33 Pin=R13-2
+Added Pin To Net: NetName=ENC_B_OUT Pin=R14-1
+Added Pin To Net: NetName=NetM1_36 Pin=R14-2
+Added Pin To Net: NetName=NetM1_37 Pin=R16-2
+Added Pin To Net: NetName=NetM1_10 Pin=R17-2
+Added Pin To Net: NetName=NetM1_12 Pin=R19-1
+Added Pin To Net: NetName=IR_OUT Pin=R19-2
+Added Pin To Net: NetName=HEARTBEAT Pin=R20-1
+Added Pin To Net: NetName=NetM1_8 Pin=R20-2
+Added Pin To Net: NetName=NetM1_9 Pin=R23-2
+Added Pin To Net: NetName=RXD0 Pin=R26-1
+Added Pin To Net: NetName=NetM1_35 Pin=R26-2
+Added Pin To Net: NetName=TXD0 Pin=R27-1
+Added Pin To Net: NetName=IO0 Pin=R30-1
+Change Net Name : Old Net Name=NetC8_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetJ6_A5 New Net Name=NetJ5_A5
+Change Net Name : Old Net Name=NetJ6_B5 New Net Name=NetJ5_B5
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR28_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR32_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR34_1 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NetR35_1 New Net Name=NetR39_1
+Change Net Name : Old Net Name=NetR36_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR34_1
+Change Net Name : Old Net Name=NetR42_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR43_1 New Net Name=NetR47_1
+Change Net Name : Old Net Name=NetR44_2 New Net Name=NetR48_2
+Change Net Name : Old Net Name=NetR52_1 New Net Name=NetR56_1
+Change Net Name : Old Net Name=NetR61_2 New Net Name=NetR43_2
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Pin To Net: NetName=NetM1_3 Pin=R6-1
+Added Net: Name=NetM1_3
+Added Pin To Net: NetName=NetM1_11 Pin=M1-11
+Added Pin To Net: NetName=NetM1_11 Pin=R18-2
+Added Net: Name=NetM1_11
+Added Pin To Net: NetName=NetM1_25 Pin=M1-25
+Added Pin To Net: NetName=NetM1_25 Pin=R30-2
+Added Net: Name=NetM1_25
+Added Pin To Net: NetName=NetM1_26 Pin=M1-26
+Added Pin To Net: NetName=NetM1_26 Pin=R5-2
+Added Net: Name=NetM1_26
+Added Pin To Net: NetName=NetM1_31 Pin=M1-31
+Added Pin To Net: NetName=NetM1_31 Pin=R12-2
+Added Net: Name=NetM1_31
+Added Pin To Net: NetName=NetM1_34 Pin=M1-34
+Added Pin To Net: NetName=NetM1_34 Pin=R27-2
+Added Net: Name=NetM1_34

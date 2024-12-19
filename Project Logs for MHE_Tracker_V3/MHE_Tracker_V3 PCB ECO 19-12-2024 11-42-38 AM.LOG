@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=Controller Member=C8
+Removed Member From Class: ClassName=Power Section Member=D1
+Removed Member From Class: ClassName=Power Section Member=Q1
+Removed Member From Class: ClassName=Power Section Member=R9
+Removed Member From Class: ClassName=Power Section Member=SW1
+Removed Member From Class: ClassName=Power Section Member=U3
+Added Member To Class: ClassName=Controller Member=Component C6 ERP_102-1
+Added Member To Class: ClassName=Power Section Member=Component D6 LED_3MM_RIGHT_ANGLE
+Added Member To Class: ClassName=Controller Member=Component J5 GSB1CA11101DSHR
+Added Member To Class: ClassName=Power Section Member=Component Q3 ERP_105-1
+Added Member To Class: ClassName=Power Section Member=Component R60 ERP_101-1
+Added Member To Class: ClassName=Power Section Member=Component SW4 ERP_110-4
+Added Member To Class: ClassName=Power Section Member=Component U9 ERP_123-1
